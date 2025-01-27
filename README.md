@@ -1,16 +1,22 @@
-## Hi there 👋
+# Uyen-Nhu Tran's GitHub
 
-<!--
-**uyennhutran/uyennhutran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub!
 
-Here are some ideas to get you started:
+Hi! I'm Uyen-Nhu Tran, a Computer Science student at the University of Maryland, College Park, graduating in May 2025. Within the past couple of years, I have retained a majority of technical skills that have helped me advance in not only my school work but professional work as well. App and web development have really piqued my interest. It allows me to tap into my creativity and design. I am dedicated to continuously enhancing my skills and knowledge to be able to work on innovative projects and enhance the technological world. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏫 Education
+**Bachelor of Science in Computer Science**  
+*University of Maryland, College Park*  
+- **Minor**: General Business  
+- **Honors**: UMD University Honors, Honors College  
+- **Relevant Courses**: Object-Oriented Programming, Data Structures, Algorithms, Web Application Development, Introduction to Machine Learning, Computer Systems, Programming Handheld Systems
+
+## 🔧 Technical Skills
+- **Languages**: Java, Python, C, Ruby, OCaml, SQL, Rust, HTML/CSS, JavaScript, R, Dart  
+- **Frameworks & Libraries**: Node.js, MongoDB, Express, Pandas  
+- **Developer Tools**: Eclipse, Visual Studio Code, Git, Unix, Android Studio, SharePoint, RStudio
+
+## 📫 How to reach me: 
+- Email: uyennhgu11@gmail.com
+- LinkedIn: http://www.linkedin.com/in/uyennhutran
+
