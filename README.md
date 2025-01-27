@@ -17,6 +17,6 @@ Hi! I'm Uyen-Nhu Tran, a Computer Science and General Business student at the Un
 - **Developer Tools**: Eclipse, Visual Studio Code, Git, Unix, Android Studio, SharePoint, RStudio
 
 ## 📫 How to reach me: 
-- Email: uyennhgu11@gmail.com
+- Email: uyennhu11@gmail.com
 - LinkedIn: http://www.linkedin.com/in/uyennhutran
 
