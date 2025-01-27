@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub!
 
-Hi! I'm Uyen-Nhu Tran, a Computer Science student at the University of Maryland, College Park, graduating in May 2025. Within the past couple of years, I have retained a majority of technical skills that have helped me advance in not only my school work but professional work as well. App and web development have really piqued my interest. It allows me to tap into my creativity and design. I am dedicated to continuously enhancing my skills and knowledge to be able to work on innovative projects and enhance the technological world. 
+Hi! I'm Uyen-Nhu Tran, a Computer Science and General Business student at the University of Maryland, College Park, graduating in May 2025. Within the past couple of years, I have retained a majority of technical skills that have helped me advance in not only my school work but professional work as well. App and web development have really piqued my interest. It allows me to tap into my creativity and design. I am dedicated to continuously enhancing my skills and knowledge to be able to work on innovative projects and enhance the technological world. 
 
 ## 🏫 Education
 **Bachelor of Science in Computer Science**  
